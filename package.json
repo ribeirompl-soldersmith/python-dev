@@ -2,6 +2,7 @@
   "name": "python-dev",
   "displayName": "Python Dev",
   "publisher": "ribeirompl-soldersmith",
+  "repository": "https://github.com/ribeirompl-soldersmith/python-dev",
   "description": "Full collection of python extensions",
   "version": "0.0.1",
   "engines": {
